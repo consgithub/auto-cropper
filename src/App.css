@@ -1,0 +1,23 @@
+.App {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.file-input {
+  text-align: center;
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 2px dashed #ccc;
+  border-radius: 8px;
+}
+
+.file-input input {
+  margin-bottom: 10px;
+}
