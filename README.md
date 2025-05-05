@@ -17,7 +17,7 @@ Auto Image Cropper allows users to select images from their device or take photo
 - **Image Selection**: Upload images from your device's gallery or camera roll
 - **Camera Capture**: Take photos directly with your device's camera (mobile)
 - **Smart Detection**: Automatically identifies black and white border areas
-- **Customizable Settings**:
+- **Customisable Settings**:
   - Adjust colour tolerance for better detection
   - Toggle between detecting black backgrounds, white backgrounds, or both
 - **Preview**: See before and after comparison of your images
